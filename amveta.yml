@@ -8,4 +8,4 @@ build:
   command: npm run start
 run:
   persistenceMount: /data
-  containerPort: 8080
+  containerPort: 80
